@@ -1,0 +1,35 @@
+row_0
+iou between layout comp  0  and sem comp  0 :  0.497529992942837
+iou between layout comp  1  and sem comp  1 :  0.7357859531772575
+iou between layout comp  3  and sem comp  2 :  0.7739575713240673
+iou between layout comp  2  and sem comp  3 :  0.4629021667760998
+
+
+row_1
+iou between layout comp  0  and sem comp  0 :  0.6587057010785824
+iou between layout comp  1  and sem comp  1 :  0.7982243744955609
+iou between layout comp  2  and sem comp  2 :  0.8657314629258517
+iou between layout comp  3  and sem comp  3 :  0.7191011235955056
+
+
+row_9
+iou between layout comp  1  and sem comp  0 :  0.6497175141242938
+iou between layout comp  0  and sem comp  1 :  0.9191489361702128
+iou between layout comp  2  and sem comp  2 :  0.9482758620689655
+iou between layout comp  3  and sem comp  3 :  0.7
+
+
+row_12
+iou between layout comp  1  and sem comp  0 :  0.6497175141242938
+iou between layout comp  0  and sem comp  1 :  0.9191489361702128
+iou between layout comp  2  and sem comp  2 :  0.9482758620689655
+iou between layout comp  3  and sem comp  3 :  0.7
+
+row_7
+iou between layout comp  0  and sem comp  0 :  0.7179115300942712
+iou between layout comp  1  and sem comp  1 :  0.5394257986251516
+iou between layout comp  3  and sem comp  2 :  0.5799146701673777
+iou between layout comp  2  and sem comp  3 :  0.7341845618107952
+
+
+

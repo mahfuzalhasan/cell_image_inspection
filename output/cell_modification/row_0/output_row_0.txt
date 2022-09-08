@@ -1,0 +1,4 @@
+iou between layout comp  0  and sem comp  0 :  0.497529992942837
+iou between layout comp  1  and sem comp  1 :  0.7357859531772575
+iou between layout comp  3  and sem comp  2 :  0.7739575713240673
+iou between layout comp  2  and sem comp  3 :  0.4629021667760998
